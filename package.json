@@ -1,0 +1,25 @@
+{
+  "name": "exam-pro",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.0.1",
+    "ant-design-vue": "^2.2.8",
+    "mitt": "^3.0.0",
+    "vue": "^3.2.25",
+    "xlsx": "^0.18.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "prettier": "^2.5.1",
+    "selenium-webdriver": "^4.1.1",
+    "unplugin-vue-components": "^0.17.18",
+    "vite": "^2.8.0",
+    "webdriver": "^7.16.16"
+  }
+}
